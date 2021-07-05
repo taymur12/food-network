@@ -60,3 +60,17 @@
 
 /* SECOND SECTION */
 
+.container-about-me{
+    flex-direction: row-reverse;
+}
+
+.main-title-about-me{
+    margin-top: 150px;
+}
+
+.main-about-me img{
+    width: 60%;
+
+}
+
+/* THIRD SECTION*/
