@@ -3,3 +3,60 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+/* FIRST SECTION*/
+
+.container-food{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 10%;
+    padding-right: 5%;
+    
+}
+
+.main-item{
+    width: 50%;
+}
+
+.main-item-title{
+    margin-top: 120px;
+}
+
+.main-item img {
+    width: 85%;
+}
+
+.item-title{
+    text-transform: capitalize;
+    font-weight: 800;
+    
+}
+
+.skip-item{
+    color: rgba(255, 68, 0, 0.808);
+}
+
+.button{
+    padding-top: 30px;
+    margin-left: 15px;
+    
+}
+
+.btn-order-food{
+    text-transform: capitalize;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 8px 20px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: linear-gradient(rgb(206, 125, 32), rgba(255, 11, 92, 0.973));
+    color: white;
+}
+
+
+/* SECOND SECTION */
+
