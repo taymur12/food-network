@@ -62,6 +62,8 @@
 
 .container-about-me{
     flex-direction: row-reverse;
+    background-image: url(images/Cover-bg.png);
+    background-repeat: no-repeat;
 }
 
 .main-title-about-me{
@@ -76,15 +78,17 @@
 /* THIRD SECTION MY RECIPIES*/
 
 .my-recipies-box{
-    margin-bottom: 10%;
-    background-color: #f1eeee80;
+    padding-top: 5%;
+    padding-bottom: 9%;
+    background-color: #dad1d173;
 }
 
 .my-recipies{
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 .container-my-recipies{
-    margin: 30px;
+   
+    margin: 10px;
     padding: 20px;
     text-align: center;
     
